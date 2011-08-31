@@ -7,9 +7,9 @@ Gem::Specification.new do |s|
   s.version     = ActiveadminSortable::VERSION
   s.authors     = ["amoslanka"]
   s.email       = ["amoslanka@gmail.com"]
-  s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.homepage    = "https://github.com/amoslanka/activeadmin_sortable"
+  s.summary     = %q{Extends ActiveAdmin to provide a page on which to sort a model's instances.'}
+  s.description = %q{Extends ActiveAdmin to provide a page on which to sort a model's instances.}
 
   s.rubyforge_project = "activeadmin_sortable"
   
